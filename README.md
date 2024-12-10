@@ -1,9 +1,9 @@
-**Name**: ALWIN JOSE
-**Company**: CODTECH IT SOLUTIONS
-**ID**: CT08DS10215
-**Domain**: ARTIFICIAL INTELLIGENCE
-**Duration**: 10th DECEMBER 2024 to 10th JANUARY 2025
-**Mentor**:
+**Name:** ALWIN JOSE
+**Company:** CODTECH IT SOLUTIONS
+**ID:** CT08DS10215
+**Domain:** ARTIFICIAL INTELLIGENCE
+**Duration:** 10th DECEMBER 2024 to 10th JANUARY 2025
+**Mentor:** Neela Sathosh Kumar
 
 
 ## Overview of the Project
